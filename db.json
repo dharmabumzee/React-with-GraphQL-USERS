@@ -5,8 +5,8 @@
         { "id": "30", "firstName": "Luka", "age": 34, "companyId": "2" }
     ],
     "companies": [
-        { "id": "1", "name": "Apple", "description": "iphone" },
-        { "id": "2", "name": "Google", "description": "search"}
+        { "id": "1", "name": "Kindergarten", "description": "daycare" },
+        { "id": "2", "name": "Bumba", "description": "parent"}
 
     ]
 }
